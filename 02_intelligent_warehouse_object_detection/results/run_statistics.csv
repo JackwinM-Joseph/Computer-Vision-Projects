@@ -1,0 +1,2 @@
+input_image,image_width,image_height,detections,inference_seconds,device,model
+ruchindra-gunasekara-GK8x_XCcDZg-unsplash.jpg,3024,4032,0,8.7212,0,YOLO11n pretrained on COCO

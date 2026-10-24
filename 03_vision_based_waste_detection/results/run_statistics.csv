@@ -1,0 +1,2 @@
+input_image,detections,inference_seconds,device,model
+gettyimages-918866504-612x612.jpg,6,8.5907,0,YOLO11n pretrained on COCO

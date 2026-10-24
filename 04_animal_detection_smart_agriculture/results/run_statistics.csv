@@ -1,0 +1,2 @@
+input_image,objects_detected,confidence_threshold,model
+input_animal.jpg,1,0.25,YOLO11n pretrained on COCO

@@ -1,0 +1,2 @@
+input_image,objects_detected,confidence_threshold,model,pothole_specific_detection
+input_road.jpg,0,0.25,YOLO11n pretrained on COCO,False
